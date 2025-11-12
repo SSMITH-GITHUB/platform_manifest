@@ -254,6 +254,7 @@ forked_aosp_repos:
   - system/logging
   - system/netd
   - system/sepolicy
+  - system/tools/aidl
   - system/vold
   - tools/metalava
 clone_depth_1_aosp_repos:
